@@ -1,4 +1,5 @@
 <?php
+//comment to just checking git
 define('MAX_FILE_LIMIT', 1024 * 1024 * 2);//2 Megabytes max html file size
 
 function sanitizeFileName($fileName)
